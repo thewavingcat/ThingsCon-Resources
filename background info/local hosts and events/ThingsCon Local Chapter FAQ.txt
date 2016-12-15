@@ -1,0 +1,97 @@
+<h3>Starting a local ThingsCon chapter</h3>
+
+You've been a part of the ThingsCon community for a while and would like to get more involved?
+
+A great way to do that is by hosting a local ThingsCon event in your community (check out the <a href="http://thingscon.com/events">list of upcoming events</a>). For a bit of background and to learn what it's like to host a local event, check out the FAQ below and our <a href="https://docs.google.com/document/d/1qWcR0Zw9MSA0SDwsaTBZuaefvFw6eMy61gKSLKTl92s/edit?usp=sharing">Community Event Guidelines</a>.
+
+In the meantime, join our growing community and start a conversation with leading IoT experts, designers and ThingsCon Alumni (<a href="http://info@thingscon.com">drop us a line</a> with the email address you use on Slack). Likewise, if you have any other ideas for a collaboration, <a href="http://thingscon.com/contact">ping us</a>!
+
+Local ThingsCon events are run by passionate volunteer hosts and their teams around the world who care about the ThingsCon mission:
+
+> ThingsCon fosters the creation of a human-centric &amp; responsible IoT.
+
+We work closely with every host and provide all support we can. If you would like to start a chapter in your city, please submit your application using the form below. Being a local ThingsCon host connects you with a global community of practitioners who care deeply about social impact of technology. It's a community driven by passion, respect, and care for the ThingsCon mission. (It's fun, too.)
+
+From local hosts we expect to promote this mission as well as inclusivity and diversity, and to adopt and implement our [inclusivity statement](http://thingscon.com/events/inclusivity). ThingsCon events come in a range of sizes, from smaller after work meetups to full-blown 1-2 day conferences. (For more info on event formats, see [/events](http://thingscon.com/events).)
+
+Please read through the following questions and answers for some background on how this community operates and how hosting works. If you think it's a good fit for you, please fill out the form below.
+
+&nbsp;
+
+<strong>Frequently asked questions</strong>
+
+<strong>Q: What does it mean to be a host?</strong>
+A: Each chapter is led by one person who serves as the local host and point of contact. This volunteer represents their city by organizing the local event (and by extension, the chapter) with the support of the ThingsCon headquarters in Berlin.
+
+The host is in charge of all aspects of running local events including:
+
+— Securing a venue
+— Finding 1-2 speakers per event
+— Marketing and communicating the event
+— If applicable, finding funding to cover event costs
+— Leading the chapter team (if applicable)
+— Making sure there is documentation of the event (text, video, photos if possible)
+— Serving as the main point of contact for the local community, speakers, sponsors, and HQ
+
+<strong>Q: Can my company be the host?</strong>
+A: No. Only individuals (read: a person) can be the local host. (For those hosts who joined as local hosts using their company during our beta period of 2016, they are grandfathered in. Starting in 2017 and going forward, new hosts need to be people not companies.)
+
+<strong>Q: Do hosts sign a license agreement?</strong>
+A: Yes. Hosts sign a license agreement to represent ThingsCon locally. This mainly covers the basics: HQ grants you the right to use the ThingsCon name, you agree that all content created as a result of your local event can be used (non-exclusively) by ThingsCon, for example by embedding videos and photos on ThingsCon.com and publishing it through other ThingsCon channels. The license agreement lasts for 12 months and is renewable.
+
+<strong>Q: Can there be co-hosts?</strong>
+A: Yes. Indeed we encourage recruiting a co-host or local team. Having a co-host is priceless both for support and as a backup in case life gets in the way. It's also much more enjoyable. You’re free to organize your team as you see fit. Only one person can be the official host. (We try to give credit as well as we can, but a long list of names after every mention of the event is too impractical.)
+
+<strong>Q: Can I run a ThingsCon Salon for profit?</strong>
+A: Local ThingsCon events are run on a volunteer basis. We don't charge licensing fees for meetups or salons, and likewise don't offer any financial renumeration. Procuring funding for a local event to cover costs for your local meetup or salon is ok, for profit is not.
+
+<strong>Q: What about sponsoring?</strong>
+A: Sponsorship or other types of funding for local chapters are acceptable to cover costs, not for profit, and under the condition that it's a good fit. As the local host, it's your decision to make—just use good judgement. Usually sponsoring comes either as in-kind support like hosting the space, or by paying for drinks during the event. In exchange sponsors get a shout out both during the event and online, and a 1 minute introduction during the event.
+
+<strong>Q: How often are local events?</strong>
+A: Each chapter knows best what works for their community. For meetups and salons, we recommend about one event each 1-2 months.
+
+<strong>Q: Can I sell tickets to my local ThingsCon event?</strong>
+A: Generally speaking, we recommend keeping meetups and salons free. However, we do recognize that sometimes the no-show rate for free events can be extremely high (this seems to depend a lot on the locality), and in those instances we think a small commitment fee is acceptable. We do encourage so-called *inclusivity paths* where students or others in financially tricky situations are enabled to attend, maybe as volunteers. In the end, the local hosts know their communities best and can make a call.
+For conferences, selling tickets is of course ok, and most likely absolutely necessary to cover costs. Again, we encourage being as inclusive as possible, and are happy to work with local hosts to evaluate the best options together.
+
+<strong>Q: Can local ThingsCon events be jointly hosted with another event series?</strong>
+A: No. We expect a ThingsCon event to be a ThingsCon event.
+
+<strong>Q: How about documentation?</strong>
+A: Promoting and amplifying the best work that aligns with our mission statement is part of how ThingsCon can have a positive impact. In that spirit we expect every event that features talks for those talks to be recorded and the videos to be shared online, for free, under a Creative Commons license ([CC BY-NC-SA](https://creativecommons.org/licenses/by-sa/4.0/)). These videos are also to be made available (as per the local hosting license agreement) non-exclusively to be promoted and re-published by HQ on the various ThingsCon channels. In addition to videos, we like to share the presentation slides and/or write-ups and ask local hosts to provide these to us.
+
+<strong>Q: I want to start a newsletter for my local event. Anything to consider?</strong>
+A: Having a local communications channel is highly recommended. If you decide on a newsletter, we do ask that you build in the option to opt-in to the global ThingsCon newsletter, too.
+
+<strong>Q: Can there be more than one chapter or event per city?</strong>
+A: No. Each city has one host and one host only. Please get in touch with the current host to see if they need any extra support—chances are they will be happy to work together.
+
+<strong>Q: Can I just use the ThingsCon label for a one-off event?</strong>
+A: No. As a rule of thumb, we are looking for ongoing commitments because it helps build a community more successfully. If for some reason you think you have an idea that absolutely warrants a one-off, please get in touch.
+
+<strong>Q: My employer is a big corporation and would like to connect with the ThingsCon community. Is it ok to host a ThingsCon for my employer?</strong>
+A: No. Based on our experience, this rarely works well. Our local hosts are individuals. ThingsCon does not work on a franchise system, and promotes independent work. We do encourage conversation and interdisciplinary exchange, so there might be other ways to get involved and support the community. Please get in touch.
+
+<strong>Q: Do speakers have to get pre-approved by HQ?</strong>
+A: No. We try to vet local hosts in the beginning and once they're in they have our trust to make the right decisions.
+
+<strong>Q: Are speakers paid?</strong>
+A: For smaller events (meetups and salons), no, with the exception of travel reimbursements as applicable. This has to be arranged by the local host, HQ does not (and cannot) bear any costs for local events. For conferences we don't usually pay speaking fees, but there might be exceptions (for example, if non-profits are involved). Travel should be reimbursed unless the speaker is backed by an organization with a dedicated travel budget for these kind of things. It's up to local hosts to make good judgement.
+
+<strong>Q: What resources are available from HQ?</strong>
+A: We're constantly evolving a [Github repository of ThingsCon assets](https://github.com/thewavingcat/ThingsCon-Resources) including visual assets and copy to use. Local hosts are free to use these (and we strongly encourage it), and ask to share back any new files that might be useful to other hosts. Additionally, we can include information about local events on thingscon.com, help promote events through our digital channels, and have a Slack channel for the community as well as local organizers. Also, HQ is here to help, and we're always happy to jump on a call.
+
+<strong>Q: How long is the commitment for being a host?</strong>
+A: Our licenses are for one year. Usually we'll offer to renew after that.
+
+<strong>Q: What if I have to drop out?</strong>
+A: We'll be sad to see you go! That said, maybe you can recommend and endorse a potential replacement, like your co-host. Otherwise we'll open up the city for other applicants again.
+
+<strong>The application process</strong>
+
+<strong>Q: What does the application entail?</strong>
+A: We ask for some written background about yourself and why you are interested in hosting, as well as a video in which you introduce yourself. This all serves to get to know you. None of it will be published, so there's no need for overly polishing this: Just help us understand where you're coming from, where you want to take ThingsCon, and why.
+
+<strong>Q: What happens after the application?</strong>
+A: We try to review applications as quickly as possible. (Please remember, this is all volunteer work, so it might be up to a couple of weeks.) If we think we'll be a good fit we'll contact you for a chat to discuss details.
