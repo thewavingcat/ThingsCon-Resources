@@ -1,0 +1,69 @@
+ThingsCon Community Event Guide
+
+*Note: Comments and feedback are more than welcome!*
+
+We thank you for reaching out and committing to running a local event. To respect your time and make your life easier, we have compiled a few guidelines and pointers based on experience. To start, however, we recommend reading the [ThingsCon local event host FAQ](http://thingscon.com/events/getinvolved). Please note all of these are guidelines based on experience rather than strict rules. If in doubt, talk to us. In order to become a local ThingsCon host, you need a (free) license from HQ. [Please submit your application online](http://thingscon.com/events/getinvolved) so we can discuss details and start the process.
+
+As we have been getting a large number of requests for local events, please note that hosting one requires our agreement. This way we can make sure that there are no redundant or conflicting events in the same city.
+
+As a way for local events to contribute back to the global ThingsCon community, we ask you to make sure to include 
+- A newsletter signup (opt-in) for the global ThingsCon newsletter in your local event registration process.
+- A link back to thingscon.com
+- A note stating that ThingsCon _[your town]_ is a local community event as part of ThingsCon but run independently.
+
+Unless agreed otherwise, the naming convention is ThingsCon Salon [City Name], ie. ThingsCon Salon Amsterdam.
+
+These requirements are also laid out in detail in the ThingsCon local event license agreement.
+
+**Formats**
+
+**ThingsCon Salons**
+Local ThingsCon community events typically happen as an “after work” event and last 2-3 hours. They usually feature between 1 and 3 talks plus some time for conversations and networking. Typically drinks and or snacks are provided by the host. (In rare cases, a Salon can be a slightly larger (100+ participants) and longer (half-day) event that also features a workshop or more talks.
+
+- Number of participants: 10-100
+- Budget: 0-500 Euros for drinks/snacks
+- Sponsorship: Frequently a company provides space for the event. In that case, a company representative can have 2-3 minutes of welcome and introduction. If a company sponsors the drinks and snacks, they usually receive a shout out from the host on stage as well as a mention online on the city host’s social media account or Meetup.com/Eventim page. 
+- The content is determined by the host
+- ThingsCon Salons are a volunteer effort. There usually is no admission fee; in cities with particularly high no-show rates on free events a small commitment fee is acceptable.
+
+
+**ThingsCon Conferences**
+A full-day ThingsCon event is a proper conference. Please note that we only grant ThingsCon Conferences to happen in close collaboration with local hosts we know well. The commitment of time and effort, as well as the budget that is necessary to run a large event, is tremendous. If you are interested in running a full conference under the ThingsCon brand, please get in touch.
+
+A typical ThingsCon conference looks something like this: The programming can include a relatively large number of talks (8-16) and/or workshops. Full catering is highly recommended (for details, see below). Please note that a full-day conference means a massive time commitment and requires lots of time, energy, and funding to pull off. Logistical challenges include location, ticketing, catering, communications (before, throughout, and after the event), video and photo documentation, speaker handling, etc. If you’re asking yourself if you can really do it, it’s probably not the option for you - so if in doubt, we recommend going for a half-day, which is far less than half the work.
+
+- Number of participants: 100-350
+- Budget: 10.000-50.000 Euros catering, location, video production, speaker travel
+- Sponsorship: Possible. The hosting organization gets a shout out as location host/partner. Sponsors do not get to choose/provide a talk, but hosts may decided to offer them a workshop slot (if applicable). Partner packages can include logo placement on event pages online as well as onsite, a booth, shout-out on stage, swag.
+- Program: Determined by the host in close coordination with ThingsCon HQ (via email/skype/hangout). ThingsCon HQ is happy to support hosts with speaker contacts etc.. Experience shows that as a rule of thumb, a 50/50 mix of content from local hosts and ThingsCon HQ works well.
+- Admission fees: Yes. In fact we highly recommend financing the event more through admission fees than sponsoring so that the event can be tailored exclusively with the participants’ interests in mind.
+- Licensing fees/revenue share: For a full-day event, please get in touch to negotiate financial details. As a rule of thumb, we aim not to charge a flat licensing fee to minimize the financial risk for a local conference. Rather we aim for a share of profit if applicable (profit as revenue minus “hard” costs, but before the local host team pays itself). This is to be discussed bilaterally on a case-by-case basis.
+
+**Programming & speakers**
+The program is largely up to you as the host. We recommend a program mix based on talks as well as hands-on workshops, and a speaker line-up as diverse as possible (see section “Inclusivity & diversity”).
+
+The ThingsCon community includes a whole lot of awesome speakers and workshop hosts that can easily be reached through the Slack Channel or through us, and we are happy to reach out directly to members of the community or our personal networks.
+
+Unless a speaker has a company travel budget, travel and accommodation should be handled fully by the event host. Working with local speakers and/or well-timed speaking requests to interesting people passing through town are a great way to invite non-local talent without incurring high travel costs.
+
+**ThingsCon mission and values**
+ThingsCon’s mission is to foster the creation of a human-centric & responsible IoT. 
+
+All ThingsCon events and activities aim to promote and advance this mission. We strongly believe in diversity & inclusivity (for details see below), openness, sharing, sustainability and collaboration. We expect local hosts to commit to these values as well and represent them in their event.
+
+**Inclusivity & diversity**
+Be believe in inclusivity and diversity, including (but not limited to) gender, regions, language, ethnicity, origin, professional background, age, etc. If you have trouble in assembling a diverse program ask us, we are happy to suggest speakers or help you look for the right ones.
+
+Hosts are required to commit to an inclusivity statement and to implement a strict no-harassment policy (including, if necessary, instant removal of the harassing participant from the event). We strive to make ThingsCon events a safe space for everyone. [Here’s our inclusivity statement.](http://thingscon.com/events/inclusivity)
+
+This commitment to diversity and inclusivity also includes taking into account a wide range of dietary needs (vegetarian, vegan, religion-based dietary requirements), so we explicitly recommend fully vegetarian catering, and working closely with the caterer to modularize and label all the meals in your local language and English to make it easy to determine what is edible based on a wide range of dietary needs (incl. common allergies, etc.).
+
+**Content sharing & documentation **
+All content, especially the presentations, should be shared online if possible. Concretely this means encouraging speakers to upload their presentations to their websites or Slideshare; to blog, tweet, and share photos of the event day; and to record and share videos of all talks online. Videos can be hard to produce properly - make sure to get someone involved who knows what they’re doing. Only for “after work” events video recordings are optional, for longer events hosts are required to record and share videos of presentations.
+
+**Branding/Design**
+Your conference should be named "ThingsCon (name of the city where the event is held)". The branding should include the ThingsCon logo or a recognisable variation of it, and the name of your city. We started a [Github repository](https://github.com/thewavingcat/ThingsCon-Resources) to share assets.
+
+**Tipps & tricks**
+You’ll find many good pointers online. Also, based on experience in running events like ThingsCon and other events, Max and Peter wrote a short ebook ([The Indie Conference Organizer Handbook](http://www.thewavingcat.com/the-indie-conference-organizer-handbook/)), which contains a bunch of hands-on pointers (it’s a free download). And of course we’re here anytime to help too.
+
