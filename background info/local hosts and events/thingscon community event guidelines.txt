@@ -6,10 +6,11 @@ We thank you for reaching out and committing to running a local event. To respec
 
 As we have been getting a large number of requests for local events, please note that hosting one requires our agreement. This way we can make sure that there are no redundant or conflicting events in the same city.
 
-As a way for local events to contribute back to the global ThingsCon community, we ask you to make sure to include 
-- A newsletter signup (opt-in) for the global ThingsCon newsletter in your local event registration process.
-- A link back to thingscon.com
-- A note stating that ThingsCon _[your town]_ is a local community event as part of ThingsCon but run independently.
+As a way for local events to contribute back to the global ThingsCon community, we ask you to make sure to 
+- include a newsletter signup (opt-in) for the global ThingsCon newsletter in your local event registration process.
+- include a link back to thingscon.com
+- include a note stating that ThingsCon _[your town]_ is a local community event as part of ThingsCon but run independently.
+- share your recorded videos on the [global ThingsCon youtube channel](https://www.youtube.com/user/thingscon)
 
 Unless agreed otherwise, the naming convention is ThingsCon Salon [City Name], ie. ThingsCon Salon Amsterdam.
 
